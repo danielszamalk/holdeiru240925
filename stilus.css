@@ -9,3 +9,8 @@ td,th {
 
 
 /* További beállítások a feladat szerint */
+h1{color:blue;}
+h1, h2{font-family: Arial, Helvetica, sans-serif;}
+#vastag{font-weight: bold;}
+#dolt{font-style: italic;}
+#hatter{background-color: lightblue;}
